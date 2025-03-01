@@ -3,7 +3,7 @@ this is my summary of basic math to understand coding better.  if you want to re
 
 
 # how to read my code
-i write with excalidraw.com ,so you can read my summary with it.
+i write with https://excalidraw.com ,so you can read my summary with it.
 
 
 # link to learn
