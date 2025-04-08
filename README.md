@@ -11,3 +11,4 @@ i write with https://excalidraw.com ,so you can read my summary with it.
 I learn from "freeCodeCamp.org" on youtube video, click link below to watch it :
 
 1- Algebra :  https://youtu.be/LwCRRUa8yTU?si=SCk6mTpLk24dO_0Z
+2- Linear algebra : https://youtu.be/rSjt1E9WHaQ?si=bZ92dn8cLxGodPlj
